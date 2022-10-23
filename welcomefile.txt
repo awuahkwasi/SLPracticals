@@ -1,0 +1,13 @@
+Hello Loretta,
+
+If you are reading this file then you have already completed the first part of this asssignment. The instructions for the second part are as follows:
+
+1. Create a branch and name it "lorriebranch"
+2. Switch lorriebranch and create a text file in there and name it "firstedit.txt". You should add a sentence to it the tile and save the changes.
+3. Commit the changes with the message "lorrie first edit commit"
+4. Create another branch called "lorriefeature"
+5. Switch to lorriefeature and create a text file there and name it "featureedit.txt". Add a sentence to this file and save it.
+6. Commit the changes with the message "lorrie first feature commit" and switch back to lorriebranch
+7. Merge lorriefeature to lorriebranch and delete the former
+8. Push the changes to the remote repo.
+9. Create a pull request for a merge in github
